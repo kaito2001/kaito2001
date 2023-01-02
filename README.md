@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaito2001
 - 👀 I’m interested in research new techs.
-- 🌱 I’m currently learning build Blockchain Layer1
+- 🌱 I’m currently learning Blockchain Layer1
 - 💞️ I’m looking to collaborate on new team.
 - 📫 How to reach me 0345333801
 
