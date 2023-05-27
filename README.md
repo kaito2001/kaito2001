@@ -36,17 +36,6 @@ I am a Full Stack Developer, a Researcher Blockchain <img src="https://media.gip
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="" title="HTML&CSS" alt="HTML&CSS" width="40" height="40"/>&nbsp;
-  <img src="" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="" title="Rust" alt="Rust " width="40" height="40"/>&nbsp;
-</div>
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaito2001&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaito2001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
